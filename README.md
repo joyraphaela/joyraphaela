@@ -1,4 +1,4 @@
-# ✦ hi, i'm joy.
+[# ✦ hi, i'm joy.
 
 i code layouts, mess with web tools, and try to make things look good on a screen 🩰✨
 
@@ -25,4 +25,5 @@ i code layouts, mess with web tools, and try to make things look good on a scree
 ---
 
 ### 💌 catch me on
-[instagram](https://instagram.com/joyraphaela) · [linkedin](https://linkedin.com/in/username-kamu)
+[instagram](https://instagram.com/joyraphaela) · [https://www.linkedin.com/in/joy-raphaela-74048b297/)
+]
